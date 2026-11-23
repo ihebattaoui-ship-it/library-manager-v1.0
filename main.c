@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "book manager\book.h"
-#include "Search and borrowing\search.h"
+#include "book.h"
+#include "search.h"
 
 int main() {
 
